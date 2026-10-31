@@ -1,16 +1,16 @@
-## Hi there 👋
+```
+on main via gh
+> hi, i'm eujun
+stage         21 / warwick CS graduate
+role          building cool stuff
+langs         cpp / python
+interests     security / HPC / startups
+```
 
-<!--
-**ChanEuJun/ChanEuJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+2x hackathon wins:
+SpoonOS x Elevenlabs Hackathon   flowchain,  2nd Overall and Best Use of ElevenLabs
+Warwick Fintech Hackathon        FounderOS,  2nd Overall
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
