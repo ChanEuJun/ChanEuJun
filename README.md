@@ -2,7 +2,7 @@
 on main via gh
 > hi, i'm eujun
 stage         21 / warwick CS graduate
-role          building cool stuff
+role          building cool stuff, keeping some repos private for now!
 langs         cpp / python
 interests     security / HPC / startups
 ```
